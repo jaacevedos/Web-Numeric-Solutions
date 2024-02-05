@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a numerical tool taht contains methods for solving single-variable equations, systems of equations, and interpolation.
+This project is a numerical tool that contains methods for solving single-variable equations, systems of equations, and interpolation.
 
 ## Features
 
